@@ -1,0 +1,15 @@
+F:\zwb\study\MultiThread\MultiThreadSolution\bin\Debug\net6.0\MultiThreadProject.exe
+F:\zwb\study\MultiThread\MultiThreadSolution\bin\Debug\net6.0\MultiThreadProject.deps.json
+F:\zwb\study\MultiThread\MultiThreadSolution\bin\Debug\net6.0\MultiThreadProject.runtimeconfig.json
+F:\zwb\study\MultiThread\MultiThreadSolution\bin\Debug\net6.0\MultiThreadProject.dll
+F:\zwb\study\MultiThread\MultiThreadSolution\bin\Debug\net6.0\MultiThreadProject.pdb
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.csproj.AssemblyReference.cache
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.AssemblyInfoInputs.cache
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.AssemblyInfo.cs
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.csproj.CoreCompileInputs.cache
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.dll
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\refint\MultiThreadProject.dll
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.pdb
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\MultiThreadProject.genruntimeconfig.cache
+F:\zwb\study\MultiThread\MultiThreadSolution\obj\Debug\net6.0\ref\MultiThreadProject.dll
